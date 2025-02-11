@@ -2,3 +2,5 @@ pollo
 harina
 huevo
 sal
+pan rallado bolo
+
