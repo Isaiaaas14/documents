@@ -1,0 +1,4 @@
+pollo 
+harina
+huevo
+sal
